@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 60px;
+}
+
+body, html {
+    background-color: white;
+}
+
+figcaption {
+    font-size: small;
+    color: rgba(0,0,0,0.6);
+}
+
+.nimiboksi {
+    color: rgb(75, 75, 75);
+    text-decoration: none;
+    width: 180px;
+    padding: 5px 5px;
+    margin-left: -5px;
+    border-radius: 10px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: all 0.25s ease;
+}
+
+.profiilikuva {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid rgb(75, 75, 75);
+    object-fit: cover;     
+    transition: all 0.25s ease;
+}
+
+.paivamaara {
+    color: rgb(75, 75, 75);
+    padding-top: 10px;
+}
+
+.nimiboksi:hover {
+    background-color: rgb(189, 96, 96);
+    color: white;
+    border-color: white;
+}
+
+.nimiboksi:hover .profiilikuva {
+    border-color: white;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  max-width: 1200px;
+}
+
+th {
+  background: rgba(0,0,0,0.05);
+  text-align: left;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+tr:nth-child(even) {
+  background: rgba(0,0,0,0.05);
+}
+
+.kaavat {
+    margin-left: -10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 100%;
+}
+
+.kuvaajat {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    max-width: 1200px;
+}
