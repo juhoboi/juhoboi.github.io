@@ -61,3 +61,13 @@ main {
     transition: all 0.25s ease;
 }
 
+.blaablaa {
+    font-size: 8px;
+    position: fixed;
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 12px;
+}
+

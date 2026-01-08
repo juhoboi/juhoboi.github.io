@@ -102,3 +102,13 @@ tr:nth-child(even) {
     width: 100%;
     max-width: 1200px;
 }
+
+.blaablaa {
+    font-size: 8px;
+    position: fixed;
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 12px;
+}
