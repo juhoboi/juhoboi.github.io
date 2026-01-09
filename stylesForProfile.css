@@ -11,6 +11,17 @@ main {
     margin-bottom: 30px;
 }
 
+@media (min-width: 1000px) {
+  main {
+    margin-left: 17.5%;
+    margin-right: 17.5%;
+  }
+}
+
+p, li {
+  line-height: 1.1;
+}
+
 .nav-bar {
     background: lightskyblue;
     height: 80px;
