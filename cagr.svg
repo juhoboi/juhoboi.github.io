@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 3840 2160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <rect x="0" y="0" width="3840" height="2160" style="fill:rgb(100,185,255);"/>
-    <text x="725.641px" y="70.867px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:58.333px;">T<tspan x="756.944px 792.576px " y="70.867px 70.867px ">od</tspan>ellinen tuotto</text>
-    <g transform="matrix(1,0,0,1,1920,0)">
-        <text x="157.746px" y="70.867px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:58.333px;">Loppupääoman kaavalla laskettu tuotto käyttäen CAGR:ia</text>
+    <rect x="0" y="0" width="3840" height="2160" style="fill:white;"/>
+    <g transform="matrix(1,0,0,1,2.34479e-12,-2.45338)">
+        <text x="708.901px" y="97.369px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:62.5px;">T<tspan x="742.44px 780.618px " y="97.369px 97.369px ">od</tspan>ellinen tuotto</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1920,-2.45338)">
+        <text x="100.442px" y="97.369px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:62.5px;">Loppupääoman kaavalla laskettu tuotto käyttäen CAGR:ia</text>
     </g>
     <g transform="matrix(0.25,0,0,1,0,0)">
         <rect x="0" y="1727.02" width="1920" height="432.981" style="fill:rgb(0,75,233);fill-opacity:0;"/>
@@ -102,9 +104,9 @@
     <g transform="matrix(0.25,0,0,1,3360,-1298.94)">
         <rect x="0" y="1727.02" width="1920" height="432.981" style="fill:rgb(0,75,233);fill-opacity:0;"/>
     </g>
-    <path d="M0,2160L480,1727.02L720,1943.51L960,1727.02L1440,861.056L1680,1294.04L1920,428.075" style="fill:none;stroke:rgb(33,248,0);stroke-width:20.83px;"/>
-    <path d="M1920,2160C1920,2160 2800,1910.79 3120,1622.13C3440,1333.48 3840,428.075 3840,428.075" style="fill:none;stroke:rgb(33,248,0);stroke-width:20.83px;"/>
-    <g transform="matrix(0.208333,0,0,1,1495,2.27374e-13)">
+    <path d="M0,2160L480,1727.02L720,1943.51L960,1727.02L1440,861.056L1680,1294.04L1920,428.075" style="fill:none;stroke:rgb(0,13,189);stroke-width:20.83px;"/>
+    <path d="M1920,2160C1920,2160 2800,1910.79 3120,1622.13C3440,1333.48 3840,428.075 3840,428.075" style="fill:none;stroke:rgb(0,13,189);stroke-width:20.83px;"/>
+    <g transform="matrix(0.166667,0,0,1,1580,2.27374e-13)">
         <rect x="1920" y="0" width="240" height="2160" style="fill:rgb(50,50,50);"/>
     </g>
     <g transform="matrix(1,0,0,1,1920,4.88515)">
@@ -119,4 +121,5 @@
     <g transform="matrix(6.21632e-17,-1,1,6.28252e-17,-2055.11,2157.55)">
         <text x="932.734px" y="2123.02px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Kurssikehitys</text>
     </g>
+    <rect x="0" y="0" width="3840" height="2160" style="fill:none;stroke:rgb(50,50,50);stroke-width:20.83px;"/>
 </svg>
